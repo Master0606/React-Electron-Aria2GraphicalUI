@@ -55,7 +55,7 @@
     "antd": "^3.13.0",
     "fs-extra": "^7.0.1",
     "humanize-duration": "^3.17.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pretty-bytes": "^5.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
